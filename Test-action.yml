@@ -19,5 +19,5 @@ jobs:
 
     - name: Run py script
       run: |
-        cd sec
+        cd src
         python -m pytest addition.py
